@@ -490,7 +490,7 @@ npm run test:watch  # Testes em modo watch
 
 ## Inspiração
 
-Este projeto é um fork modernizado do [gerar-boletos-pdfkit](https://github.com/romulosanttos/gerar-boletos-pdfkit), criado originalmente por [Rômulo Cabral Santos](https://github.com/romulosanttos). O projeto original, por sua vez, se inspirou no [Stella-Boletos](https://github.com/caelum/caelum-stella) da Caelum.
+Este projeto é um fork modernizado do [gerar-boletos](https://github.com/Romulosanttos/gerar-boletos), criado originalmente por [Rômulo Cabral Santos](https://github.com/Romulosanttos). O projeto original, por sua vez, se inspirou no [Stella-Boletos](https://github.com/caelum/caelum-stella) da Caelum.
 
 A lógica bancária — cálculo de dígitos verificadores, montagem do campo livre, layout dos boletos e suporte a cada banco — foi desenvolvida a partir desse trabalho. A contribuição deste fork é a migração completa para TypeScript, a nova interface de API unificada e a camada REST com Fastify.
 
