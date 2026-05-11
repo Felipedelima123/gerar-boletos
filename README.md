@@ -498,4 +498,4 @@ A lógica bancária — cálculo de dígitos verificadores, montagem do campo li
 
 ## Licença
 
-ISC
+MIT © 2026 Francisco Lima
